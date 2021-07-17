@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## 프로젝트 내용
 Open-api,아두이노를 활용하여 날씨와 시계를 볼수있는 탁상시계를 만들어보자⏰
-<img src="images/video1.gif" >
+<img src="images/video1.gif" widht="1024"   >
 
 
 
@@ -56,6 +56,11 @@ Open-api,아두이노를 활용하여 날씨와 시계를 볼수있는 탁상시
 ## 연락처
 
 My Name - [@my_email](https://dldydduq456.com/your_username) - dldydduq456@naver.com
+</br>
+소스 필요하시면 연락 주세요
+
+
+
 
 
 <!-- 관련 docs -->
