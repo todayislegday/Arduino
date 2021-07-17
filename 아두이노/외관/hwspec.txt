@@ -1,2 +1,0 @@
-nodemcu v2
-oled:sh1106

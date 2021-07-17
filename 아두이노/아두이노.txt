@@ -1,6 +1,0 @@
-U+Net16C5
-1C18047287
-초지동 57 121
-부곡동 60  121
-예제:apis.data.go.kr/1360000/VilageFcstInfoService/getVilageFcst?serviceKey=MYkMEd1Kx5PWDad4K0CUzdminh1l8NocDD0sSSijoqivkQ%%2BdiwlZsSTq2pWRqO5KlmCFOlI5tA%%2B90TZhGDTaeA%%3D%%3D&numOfRows=200&pageNo=1&base_date=20200416&base_time=0500&nx=57&ny=121&dataType=JSON
-기상청 API:7503qUB6FNb%2BuC5jrw1iycVdkNUroYZogV7Nav12eN5SdqjGsXoGzWv1OSJn4D7FTFHDfGgWas%2FQVJbUF9T30g%3D%3D
