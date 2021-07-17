@@ -5,7 +5,7 @@
   <a href="https://www.arduino.cc/">
     <img src="images/logo.png" alt="Logo" width="256" height="256">
   </a>
-  <h3 align="center">탁상 시계</h3>
+  <h3 align="center">⏰탁상 시계⏰</h3>
   <p align="center">
     Open-api를 활용하여 날씨,시계를 실시간 으로 볼수있다.
     <br />
@@ -19,13 +19,6 @@
     <li>
       <a href="#프로젝트-내용">프로젝트 내용</a>
     </li>
-    <li>
-      <a href="#시작전">시작전 설치</a>
-      <ul>
-        <li><a href="#의존성-설치">의존성 설치</a></li>
-        <li><a href="#google-api키-발급">Google Api키 발급</a></li>
-      </ul>
-    </li>
     <li><a href="#사용용도">사용용도</a></li>
     <li><a href="#프로젝트-기여">프로젝트 기여</a></li>
     <li><a href="#연락처">연락처</a></li>
@@ -37,53 +30,25 @@
 
 <!-- ABOUT THE PROJECT -->
 ## 프로젝트 내용
-모바일 포렌식을 이용하는 사람들에게 보기 편한 무료의 포렌식 시각화 툴을 제공하는 것</br>
-OS:Android.v10 ✔ (IOS ❌)
-<img src="images/screen1.PNG" >
-<img src="images/screen2.PNG">
-<img src="images/screen3.PNG" >
-<img src="images/screen4.PNG" >
-<img src="images/screen5.PNG" >
-<img src="images/screen6.PNG" >
-<img src="images/screen7.PNG" >
-
-
-
-<!-- GETTING STARTED -->
-## 시작전
-
-이 프로젝트를 실행하기전에 필요한 행위.
-
-### 의존성 설치
-
-* requirements.txt
-  ```sh
-  $ pip install -r requirements.txt
-  ```
-
-### Google Api키 발급
-
-1. 키 발급 [https://webruden.tistory.com/378](https://webruden.tistory.com/378)
-2. was/templates/geo-Artifact.html의 125Line에 key 파라미터에 발급받은 api key를 넣어주세요.
-   ```sh
-   <script src="https://maps.googleapis.com/maps/api/js?key=yourkey&libraries=&v=weekly"></script>
-   ```
+Open-api,아두이노를 활용하여 날씨와 시계를 볼수있는 탁상시계를 만들어보자⏰
+<img src="images/video1.gif" >
 
 
 
 <!-- 사용 용도 -->
 ## 사용용도
 
-‼보안 목적으로만 사용해주세요‼
+‼자신만의 날씨와 시계를 보고싶은 분들‼</br>
+‼아두이노로 어떤 프로젝트를 해보고 싶은 분들‼
 
 
 <!-- 프로젝트 기여 -->
 ## 프로젝트 기여
 
 
-1. 데이터 추출 ✔
-2. Djnago 백엔드 작성 ✔
-3. 프론트엔드 전반적인 기여 ✔
+1. 3D 프린트 의뢰 ✔
+2. OPEN-API 이용 ✔
+3. C,C++작성 ✔
 
 
 
@@ -95,16 +60,12 @@ My Name - [@my_email](https://dldydduq456.com/your_username) - dldydduq456@naver
 
 <!-- 관련 docs -->
 ## 관련 docs
-* [python](https://docs.python.org/3/)
-* [Django](https://docs.djangoproject.com/ko/3.2/intro/)
-* [jQuery](https://api.jquery.com/)
-* [googlemap-Api](https://developers.google.com/maps/documentation/javascript/overview)
-* [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
-* [html](https://developer.mozilla.org/ko/docs/Web/API/HTMLDocument)
-* [javascript](https://developer.mozilla.org/ko/docs/Web/JavaScript)
-* [css](https://developer.mozilla.org/ko/docs/Web/CSS)
-* [Sqllite3](https://docs.python.org/3/library/sqlite3.html)
-* [Qt5](https://doc.qt.io/qtforpython/)
+* [C](https://docs.python.org/3/)
+* [C++](https://docs.djangoproject.com/ko/3.2/intro/)
+* [Arduino](https://www.arduino.cc/)
+* [open-Api](https://www.gov.kr/openapi/info)
+* [3d 프린트 도면](https://www.thingiverse.com/)
+
 
 
 
