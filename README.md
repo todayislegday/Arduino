@@ -2,12 +2,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="http://kshieldjr.org/">
-    <img src="images/logo.PNG" alt="Logo" width="256" height="256">
+  <a href="https://www.arduino.cc/">
+    <img src="images/logo.png" alt="Logo" width="256" height="256">
   </a>
-  <h3 align="center">K-shield.Jr</h3>
+  <h3 align="center">탁상 시계</h3>
   <p align="center">
-    K-shield.Jr 6기 사고분석대응 팀 프로젝트
+    Open-api를 활용하여 날씨,시계를 실시간 으로 볼수있다.
     <br />
 </p>
 
